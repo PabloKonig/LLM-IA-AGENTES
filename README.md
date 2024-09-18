@@ -31,4 +31,12 @@ según las preferencias, el estilo de comunicación y los objetivos del usuario.
 
 ## Agente 1
 
-<span>./img/CodyBot-Solara.jpg</span>
+### Imagen del chatboot (CodyBot) con Solara
+![CodyBot](./Agente-1/img/CodyBot-Solara.jpg)
+
+## Agente 2
+
+### Imagen del Agente que ingresa información nueva de la web.
+![Agente2](./Agente-1/img/agente2.jpg)
+
+![Agente2](./Agente-1/img/agente2-LangSmith.jpg)
