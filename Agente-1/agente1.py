@@ -29,7 +29,7 @@ class MessageDict(TypedDict):
 # Crea el agente LangGraph
 memory = MemorySaver()
 model = ChatOpenAI(model="gpt-4o-2024-08-06")
-search = TavilySearchResults(max_results=2)
+search = TavilySearchResults(max_results=5)
 tools = [search]
 agent_executor = create_react_agent(model, tools, checkpointer=memory)
 
